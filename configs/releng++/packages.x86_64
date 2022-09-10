@@ -125,5 +125,6 @@ xorg-server
 xorg-xrandr
 networkmanager
 lightdm
+lightdm-gtk-greeter
 i3-gaps
 kitty
