@@ -5,7 +5,6 @@ archinstall
 b43-fwcutter
 base
 bind
-brltty
 broadcom-wl
 btrfs-progs
 clonezilla
@@ -41,8 +40,6 @@ intel-ucode
 ipw2100-fw
 ipw2200-fw
 irssi
-iw
-iwd
 jfsutils
 kitty-terminfo
 less
@@ -113,7 +110,7 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
-virtualbox-guest-utils-nox
+virtualbox-guest-utils
 vpnc
 wireless-regdb
 wireless_tools
@@ -122,3 +119,11 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+#GUI (will move to above list after test)
+xorg-server
+xorg-xrandr
+networkmanager
+lightdm
+i3-gaps
+kitty
