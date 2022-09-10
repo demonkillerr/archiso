@@ -1,0 +1,1 @@
+#authrequired pam_succeed_if.so user != root quiet_success
